@@ -1,4 +1,4 @@
-# Estudos e Fundamentos de Python 🐍
+# Estudos e Fundamentos de Python 
 
 Este repositório centraliza mais de 50 scripts, rotinas e exercícios práticos desenvolvidos durante os meus estudos da linguagem Python. O objetivo é consolidar uma base sólida em lógica de programação, estruturas de dados e os pilares da engenharia de software back-end.
 
